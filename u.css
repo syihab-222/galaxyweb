@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Ubah warna latar belakang sesuai keinginan */
+    color: #ffffff;
+}
+
+header {
+    background-image: url(R.jpg); /* Ubah warna header sesuai keinginan */
+    background-size: cover;
+    color: #004075;
+    padding: 20px;
+    text-align: center;
+    font-family: Georgia;
+    position: sticky;
+}
+
+nav {
+    background-color: #444; /* Ubah warna navbar sesuai keinginan */
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #ccc;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333; /* Ubah warna footer sesuai keinginan */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: static;
+    bottom: 0;
+    width: 100%;
+}
+
+section h2{
+    color: #ffffff;
+}
+
+section p{
+    font-size: 35px;
+    color: #ffffff;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.p{
+    font-size: 25px;
+}
+
+button{
+    display: block;
+    color: #9b5555;
+    background-color: #754848;
+}
+
+a{
+    color: #ffffff;
+}
+
+a:hover{
+    color: #6ab956;
+}
+
+.img{
+    width: 50%;
+}
+
+.img2{
+    width: 50%;
+}
+
+.img3{
+    width: 50%;
+}
